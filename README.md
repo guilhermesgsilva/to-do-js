@@ -25,11 +25,11 @@ A simple and responsive To-Do List application built with Vanilla JavaScript. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/guilhermesgsilva/to-do-js.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd todo-list-app
+   cd to-do-js
    ```
 3. Open `index.html` in your preferred browser.
 
